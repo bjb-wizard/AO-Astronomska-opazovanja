@@ -9,4 +9,4 @@ Za poročila je imel nekaj pripomb.
 
 #### Eksoplanet
 
-Računanje napak magnitude bi moralo biti namesto $$\sigma = \sqrt{\sum_{i \in \mathcal{A}} s_i + o_{\text{med}}  \cdot N_{pk}}$$ samo \sigma = \sqrt{\sum_{i \in \mathcal{A}} s_i}
+Računanje napak magnitude bi moralo biti namesto $$\sigma = \sqrt{\sum_{i \in \mathcal{A}} s_i + o_{\text{med}}  \cdot N_{pk}}$$ samo $$\sigma = \sqrt{\sum_{i \in \mathcal{A}} s_i} $$
