@@ -1,12 +1,12 @@
-## Koda za obdelavo podatkov ter poročila
+# Koda za obdelavo podatkov ter poročila
 
-### Opombe
+## Opombe
 Za poročila je imel nekaj pripomb.
 
-#### Sonce
+### Sonce
 
-#### Barvna slika
+### Barvna slika
 
-#### Eksoplanet
+### Eksoplanet
 
 Računanje napak magnitude bi moralo biti namesto $$\sigma = \sqrt{\sum_{i \in \mathcal{A}} s_i + o_{\text{med}}  \cdot N_{pk}}$$ samo $$\sigma = \sqrt{\sum_{i \in \mathcal{A}} s_i} $$
